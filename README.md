@@ -6,7 +6,7 @@
   <a href="https://github.com/Matt4llan" alt="GitHub"><img src="https://img.shields.io/badge/github-%100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-Im a Tech Enthusiast & IT Problem Solver currently working in as an IT Operations Analyst and i am urrently on a cyber-adventure, studying and gearing up for a role in cybersecurity
+Im a Tech Enthusiast & IT Problem Solver currently working in as an IT Operations Analyst and i am currently on a cyber-adventure, studying and gearing up for a role in cybersecurity
 
 ## Objective
 
