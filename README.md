@@ -43,7 +43,6 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
