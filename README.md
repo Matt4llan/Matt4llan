@@ -45,11 +45,11 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CCENT%20ICND1-003%20-006BA4?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethical%20Hacking-Certified-32CD32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Introduction%20To%20Ethical%20Hacking-Certified-32CD32?style=for-the-badge" />
 </div>
 
 ## Projects
