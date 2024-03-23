@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matthewallan101/" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Matt4llan" alt="GitHub"><img src="https://img.shields.io/badge/github-%100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 Im a Tech Enthusiast & IT Problem Solver currently working in as an IT Operations Analyst and i am currently on a cyber-adventure, studying and gearing up for a role in cybersecurity
@@ -25,18 +24,15 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -51,5 +47,5 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM Visualization</a>
+- <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>
