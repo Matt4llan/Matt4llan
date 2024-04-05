@@ -8,7 +8,7 @@ Im a Tech Enthusiast & IT Problem Solver currently working in as an IT Operation
 
 ## Objective
 
-My journey through IT Support, Networking and Linux have spiked my interest in CyberSecurity which is where im directing all of my attention right now through study. I'm specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey through IT Support, Networking and Linux have spiked my interest in CyberSecurity which is where im directing all of my attention right now through study. I'm looking for a new career and job role as a Cyber Security Analyst.
 
 ## Skills
 
