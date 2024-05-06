@@ -4,11 +4,11 @@
   <a href="https://www.linkedin.com/in/matthewallan101/" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-Im a Tech Enthusiast & IT Problem Solver currently working in as an IT Operations Analyst and i am currently on a cyber-adventure, studying and gearing up for a role in cybersecurity
+Im a Tech Enthusiast & IT Problem Solver currently working in as an IT Operations Analyst and i am currently on a cyber-adventure, studying and gearing up for a new job role.
 
 ## Objective
 
-My journey through IT Support, Networking and Linux have spiked my interest in CyberSecurity which is where im directing all of my attention right now through study. I'm looking for a new career and job role as a Cyber Security Analyst.
+My journey through IT Support, Networking and Linux have spiked my interest in CyberSecurity and Linux administration which is where im directing all of my attention right now through study.
 
 ## Skills
 
@@ -25,9 +25,14 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+### General
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)" />
 </div>
 
 ### SIEM
