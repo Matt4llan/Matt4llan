@@ -14,8 +14,8 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Dashboard Setup - Elastic          | <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM Visualization</a>|
-| SQL - Apply filters to SQL queries | <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>|
+| SIEM - Elastic | <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM - Elastic</a>|
+| SQL | <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>|
 | Docker | <a href="https://github.com/stars/Matt4llan/lists/docker">Docker</a>|
 
 ## Tools
