@@ -15,6 +15,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM - Elastic | <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM - Elastic</a>|
+| Kerberoasting | <a href="https://github.com/Matt4llan/HackTheBox-Kerberoasting">Kerberoasting</a>|
 | SQL | <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>|
 | Docker | <a href="https://github.com/stars/Matt4llan/lists/docker">Docker</a>|
 | Ansible | <a href="https://github.com/Matt4llan/Ansible-Basic-Playbook">Ansible</a>|
@@ -55,6 +56,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 
 ## Projects
 - <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM Visualization</a>
+- <a href="https://github.com/Matt4llan/HackTheBox-Kerberoasting">Kerberoasting</a>
 - <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>
 - <a href="https://github.com/Matt4llan/Docker-Basic">Docker Basic</a>
 - <a href="https://github.com/Matt4llan/docker-nginx">Docker Nginx</a>
