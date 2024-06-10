@@ -17,6 +17,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 | SIEM - Elastic | <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM - Elastic</a>|
 | Kerberoasting | <a href="https://github.com/Matt4llan/HackTheBox-Kerberoasting">Kerberoasting</a>|
 | Velociraptor | <a href="https://github.com/Matt4llan/Threat-Hunting-with-Velociraptor">Threat Hunting with Velociraptor</a>|
+| SIEM - Sentinel | <a href="https://github.com/Matt4llan/SIEM-Azure-Sentinel">Azure Sentinel with map and live Cyber Attacks</a>|
 | SQL | <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>|
 | Docker | <a href="https://github.com/stars/Matt4llan/lists/docker">Docker</a>|
 | Ansible | <a href="https://github.com/Matt4llan/Ansible-Basic-Playbook">Ansible</a>|
@@ -44,6 +45,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
 ## Certifications
