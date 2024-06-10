@@ -8,7 +8,7 @@ Im a Tech Enthusiast & IT Problem Solver currently working in as an IT Operation
 
 ## Objective
 
-My journey through IT Support, Networking and Linux have spiked my interest in CyberSecurity and Linux administration which is where im directing all of my attention right now through study.
+My journey through IT Support, Networking and Linux have spiked my interest in CyberSecurity which is where im directing all of my attention right now through study.
 
 ## Skills
 
