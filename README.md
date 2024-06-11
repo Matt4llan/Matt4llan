@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Matt Allan
+### Hi There 👋 I'm Matt Allan
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matthewallan101/" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
