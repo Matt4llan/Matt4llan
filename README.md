@@ -18,9 +18,6 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 | Kerberoasting | <a href="https://github.com/Matt4llan/HackTheBox-Kerberoasting">Kerberoasting</a>|
 | Velociraptor | <a href="https://github.com/Matt4llan/Threat-Hunting-with-Velociraptor">Threat Hunting with Velociraptor</a>|
 | SIEM - Sentinel (In Progress) | <a href="https://github.com/Matt4llan/SIEM-Azure-Sentinel">Azure Sentinel with map and live Cyber Attacks</a>|
-| SQL | <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>|
-| Docker | <a href="https://github.com/stars/Matt4llan/lists/docker">Docker</a>|
-| Ansible | <a href="https://github.com/Matt4llan/Ansible-Basic-Playbook">Ansible</a>|
 
 ## Tools
 
@@ -28,12 +25,6 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### General
-<div>
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -61,8 +52,3 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 - <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM Visualization</a>
 - <a href="https://github.com/Matt4llan/HackTheBox-Kerberoasting">Kerberoasting</a>
 - <a href="https://github.com/Matt4llan/Threat-Hunting-with-Velociraptor">Velociraptor</a>
-- <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>
-- <a href="https://github.com/Matt4llan/Docker-Basic">Docker Basic</a>
-- <a href="https://github.com/Matt4llan/docker-nginx">Docker Nginx</a>
-- <a href="https://github.com/Matt4llan/Docker-AWS">Docker AWS</a>
-- <a href="https://github.com/Matt4llan/Ansible-Basic-Playbook">Ansible</a>
