@@ -4,11 +4,8 @@
   <a href="https://www.linkedin.com/in/matthewallan101/" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-Im a Tech Enthusiast & IT Problem Solver currently working in as an IT Operations Analyst and i am currently on a cyber-adventure, studying and gearing up for a new job role.
+I'm a Tech Enthusiast & IT Problem Solver with a deep interest in Cybersecurity. My journey through IT Support, Networking, and Linux has sparked my passion for securing and defending digital landscapes. I am currently channeling all my efforts into studying and preparing for a new role in the Cybersecurity industry. This GitHub profile is a showcase of my experience with various tools and projects, demonstrating my hands-on skills and commitment to advancing in the cybersecurity realm.
 
-## Objective
-
-My journey through IT Support, Networking and Linux have spiked my interest in CyberSecurity which is where im directing all of my attention right now through study.
 
 ## Skills
 
