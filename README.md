@@ -34,7 +34,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
     <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=limacharlie&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM - Security Information & Event Management
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
