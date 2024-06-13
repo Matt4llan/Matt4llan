@@ -12,7 +12,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill / Tool                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | EDR - LimaCharlie | <a href="https://github.com/Matt4llan/SYWTBASA-Lab">So You Want To Be A SOC Analyst Lab - Eric Capuano</a>|
 | SIEM - Elastic | <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM - Elastic</a>|
