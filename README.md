@@ -28,9 +28,10 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
+### EDR - Endpoint Detection & Response
 <div>
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=limacharlie&logoColor=white" />
 </div>
 
 ### SIEM
