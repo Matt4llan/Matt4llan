@@ -14,6 +14,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in C
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| EDR - LimaCharlie | <a href="https://github.com/Matt4llan/SYWTBASA-Lab">EDR - LimaCharlie</a>|
 | SIEM - Elastic | <a href="https://github.com/Matt4llan/Elastic-SIEM">SIEM - Elastic</a>|
 | Kerberoasting | <a href="https://github.com/Matt4llan/HackTheBox-Kerberoasting">Kerberoasting</a>|
 | Velociraptor | <a href="https://github.com/Matt4llan/Threat-Hunting-with-Velociraptor">Threat Hunting with Velociraptor</a>|
