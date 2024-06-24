@@ -11,6 +11,7 @@ I'm a Tech Enthusiast & IT Problem Solver with a deep interest in Cybersecurity.
     <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-4B275F?style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20SC--200-4B275F?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-HackTheBox%20CDSA-4B275F?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber_Security_GRC_Mastery-4B275F?&style=for-the-badge&logo=security&logoColor=white" />
 </div>
 
 ## Skills
