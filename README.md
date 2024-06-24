@@ -6,6 +6,13 @@
 
 I'm a Tech Enthusiast & IT Problem Solver with a deep interest in Cybersecurity. My journey through IT Support, Networking, and Linux has sparked my passion for securing and defending digital landscapes. I am currently channeling all my efforts into studying and preparing for a new role in the Cybersecurity industry. This GitHub profile is a showcase of my experience with various tools and projects, demonstrating my hands-on skills and commitment to advancing in the cybersecurity realm.
 
+### Current Active Studies
+<div>
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-4B275F?style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20SC--200-4B275F?style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HackTheBox%20CDSA-4B275F?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" />
+</div>
+
 ## Skills
 
 | Skill / Tool                                        | Associated Project                                                     |
